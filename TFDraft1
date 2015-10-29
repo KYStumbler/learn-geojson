@@ -1,0 +1,1407 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-105-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-105-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334034,
+          39.491995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL12",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL12",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3750025,
+        "Long": -76.7935673,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.793567,
+          39.375002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-290-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-290-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.826532,
+          39.247002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bread and Cheese Creek WQ Enhancements",
+        "description": "1,700 LF of stream restoration and 1 acre of riparian buffer",
+        "title": "Bread and Cheese Creek WQ Enhancements",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499611,
+          39.281029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Data Collected: Biology",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.812998,
+          39.238988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Back River SWM Pond Conversion",
+        "description": "One of several ponds being upgraded to current standards",
+        "title": "Upper Back River SWM Pond Conversion",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.517364,
+          39.379148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Data",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Data",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81259,
+          39.234793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC002",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC002",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334253,
+          39.486956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL06",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL06",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3795524,
+        "Long": -76.7972729,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.797272,
+          39.379552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-101-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-101-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340237,
+          39.481864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Branch North Fork Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "West Branch North Fork Stream Restoration (Permit phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.746046,
+          39.386341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL09",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL09",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3836341,
+        "Long": -76.8164485,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.816448,
+          39.383634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL13",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL13",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3739568,
+        "Long": -76.7915797,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.791579,
+          39.373956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Run Stream Restoration",
+        "description": "477 LF of stream restoration along a tributary to White Marsh Run",
+        "title": "Magnolia Run Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.459308,
+          39.390836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-003-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-003-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333493,
+          39.488163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltmore County Flow Site LR13",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltmore County Flow Site LR13",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Loch Raven",
+        "Lat": 39.4869292,
+        "Long": -76.64456,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64456,
+          39.486929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL04",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL04",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3723673,
+        "Long": -76.787594,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.787594,
+          39.372367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltmore County Flow Site SL10",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltmore County Flow Site SL10",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3836942,
+        "Long": -76.8168101,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81681,
+          39.383694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC004",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC004",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327759,
+          39.492319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327655,
+          39.492174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.812488,
+          39.235019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC03",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC03",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.332948,
+          39.488734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333066,
+          39.488608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herring Run Overlook Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Herring Run Overlook Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58606,
+          39.37547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LWIN-108-X (Control)",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LWIN-108-X (Control)",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328282,
+          39.46904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Three types of data are collected here:  Biological, Water Quality (Nitrogen, Phosphorus, and TSS concentrations) and Sediment",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.824393,
+          39.246999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardens of Bel Air Stormwater Retrofit",
+        "description": "This project increases water quality and decreases stormwater discharges.",
+        "title": "Gardens of Bel Air Stormwater Retrofit",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333489,
+          39.493057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PATL-288-X (Control)",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity.  This is a unmodified control site for comparison to the site monitoring restoration projects.",
+        "title": "PATL-288-X (Control)",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.783867,
+          39.197536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL07",
+        "description": "Type: Storm, Baseflow<br>USGS gage: <br>Old ADC: 24D10<br>ROADCROSS: Trib at Tulsmere<br>SUBSHED_: Scotts Level<br>WATERSHED: Gwynns Falls<br>Lat: 39.38<br>Long: -76.808",
+        "title": "Baltimore County Flow Site SL07",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3797075,
+        "Long": -76.8084614,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.808461,
+          39.379707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC02",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC02",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334159,
+          39.488764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL02",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL02",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3676214,
+        "Long": -76.7654303,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76543,
+          39.367621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USGS Gaging Station",
+        "description": "Continuous flow data",
+        "title": "USGS Gaging Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "Type": "USGS Gage",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340366,
+          39.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-107-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-107-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331086,
+          39.49407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Monitoring Site SL01",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Monitoring Site SL01",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3615714,
+        "Long": -76.7617722,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761772,
+          39.361571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Monitoring Site GW10",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Monitoring Site GW10",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3112653,
+        "Long": -76.7166538,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.716653,
+          39.311265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Run at Westview Park Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Dead Run at Westview Park Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.585854,
+          39.375469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-294-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-294-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.818059,
+          39.244067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC04 (Control Site)",
+        "description": "Howard Co Monitoring for Geomorphology.  This is in an unmodified watershed near to the restoration watershed for comparison.",
+        "title": "Geomorph WC04 (Control Site)",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331145,
+          39.486689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jones Falls Stream Restoration ",
+        "description": "Construction of restoration project which will replace 600 feet of concrete channel with natural stream channel and adjacent vegetated floodplain.  Monitoring Planned: Brightwater will develop a stability monitoring program by establishing monuments for annual surveys of cross sections and a thalweg profile. Stability monitoring will also include annual pebble counts to monitor particle size distribution of materials in bed and banks. Brightwater will prepare an annual report of the results of this monitoring. The Maryland Fisheries Service, a partner in this project, will conduct annual aquatic life surveys to document the condition of the biological community in the restored reach. The biological monitoring effort will include fish and macroinvertebrates. ",
+        "title": "Jones Falls Stream Restoration (FY2014)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": "marker-ig8cda1x0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.662447,
+          39.396208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-287-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-287-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813502,
+          39.238723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Data",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Data",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813421,
+          39.2371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-102-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-102-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334079,
+          39.488102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL03",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL03",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3719644,
+        "Long": -76.7801202,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78012,
+          39.371964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL08",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL08",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3804552,
+        "Long": -76.8075269,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.807526,
+          39.380455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC01",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC01",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340053,
+          39.481796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.335094,
+          39.485461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Three types of data are collected here:  Biological, Water Quality (Nitrogen, Phosphorus, and TSS concentrations) and Sediment",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813589,
+          39.2378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8094,
+          39.238045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Gunpowder at Proctor Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "Lower Gunpowder at Proctor Stream Restoration (Permit Phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47893,
+          39.410696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site GU08",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Site GU08",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Lower Gunpowder",
+        "Lat": 39.4103409,
+        "Long": -76.5558462,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.555846,
+          39.41034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site HR05",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Site HR05",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Back River",
+        "Lat": 39.3736579,
+        "Long": -76.5842715,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584271,
+          39.373657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-006-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-006-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328198,
+          39.491231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1A",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Country Walk Stormwater Retrofit 1A",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.332668,
+          39.489167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC003",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC003",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331149,
+          39.489684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-288-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-288-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813584,
+          39.237737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-004-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-004-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.330993,
+          39.489686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL05",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL05",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3737539,
+        "Long": -76.794692,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.794692,
+          39.373753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salterforth Outlet",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Salterforth Outlet",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.810478,
+          39.238441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festival Stormwater Retrofit",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.326853,
+          39.493049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC001",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Water Quality WC001",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340061,
+          39.482054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1B",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.329473,
+          39.490651
+        ]
+      }
+    }
+  ]
+}
